@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Say hello
-        run: echo "Hello from GitHub Action"
+        run: echo "Hello from Irina to GitHub Action"
